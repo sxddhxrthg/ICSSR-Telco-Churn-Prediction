@@ -7,7 +7,7 @@ The objective of this project is to forecast customer churn (the likelihood of a
 - **Split for Training and Validation:** 80% for Training and 20% for Testing
 - **Metrics Reported:** Accuracy, Precision, Recall, and F1-Score
 
-## Comparing Models and Results
+## Comparing Models and Results (Evaluation)
 The evaluation code shows the following results for the test set:
 
 ### Examination- **Best Result:** The **Random Forest Classifier** is the best model, with an overall **Accuracy of 79%** and a **Macro F1-Score of 0.71**.
