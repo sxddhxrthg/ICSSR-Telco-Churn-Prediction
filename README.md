@@ -16,4 +16,4 @@ The evaluation code shows the following results for the test set:
 How to Run
 1. In Google Colab, open the file with the extension ".ipynb."
 2. Make sure you have `kagglehub` installed so you can download the dataset directly from Kaggle.
-3. Run all of the cells to see the reports on how well the model works, the data cleaning process, and the EDA visualisations.
+3. Run all of the cells to see the reports on how well the model works, the data cleaning process, and the EDA visualisations and such
